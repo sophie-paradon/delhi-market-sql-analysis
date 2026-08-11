@@ -1,5 +1,7 @@
 # Delhi Market — Analyse SQL de la rentabilité d'une marketplace e-commerce
 
+![Marge par catégorie](delhi-market-margin.png)
+
 Analyse SQL/BigQuery de 500 commandes et 1 500 lignes produit : la catégorie qui vend le plus (Electronics) n'est pas la plus rentable, et une sous-catégorie entière fait perdre de l'argent à chaque vente.
 
 ## Contexte
